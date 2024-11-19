@@ -157,7 +157,7 @@
 				<Title>elliott_vbet_dgos_alb27_ver3int_just_aoi</Title>
 				<Abstract>GH:elliott_vbet_dgos_alb27_ver3int_just_aoi ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp::://github.com/damonholzer/maps01/releases/download/Map_Download/elliott_vbet_dgos_alb27_ver3int_just_aoi.zip:notListing::maxZoom:4</Keyword>
+					<Keyword>group:shp::://github.com/damonholzer/maps01/releases/download/Map_Download/elliott_vbet_dgos_alb27_ver3int_just_aoi.zip:notListing::maxZoom:13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-124.13209424331953" miny="43.50865424642367" maxx="-123.87845212175722" maxy="43.62114186900354"></LatLonBoundingBox>
@@ -177,7 +177,7 @@
 				<Title>boundary_alb27</Title>
 				<Abstract>GH:boundary_alb27 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp::://github.com/damonholzer/maps01/releases/download/Map_Download/boundary_alb27.zip:notListing::maxZoom:4</Keyword>
+					<Keyword>group:shp::://github.com/damonholzer/maps01/releases/download/Map_Download/boundary_alb27.zip:notListing::maxZoom:13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-124.15446664941524" miny="43.43853812227265" maxx="-123.81533602912101" maxy="43.702163696014715"></LatLonBoundingBox>
