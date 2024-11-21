@@ -136,7 +136,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:boundary_alb27</Layers>
+				<Layers>GH:elliott_vbet_dgos_alb27_ver3int_just_aoi</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -146,7 +146,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:boundary_alb27</Layers>
+				<Layers>GH:elliott_vbet_dgos_alb27_ver3int_just_aoi</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -156,7 +156,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:elliott_vbet_dgos_alb27_ver3int_just_aoi</Layers>
+				<Layers>GH:boundary_alb27</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -166,7 +166,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:elliott_vbet_dgos_alb27_ver3int_just_aoi</Layers>
+				<Layers>GH:boundary_alb27</Layers>
 				<Styles></Styles>
 			</TileSet>
 		</VendorSpecificCapabilities>
@@ -193,26 +193,6 @@
 				</Style>
 			</Layer>
 			<Layer queryable="1" opaque="0">
-				<Name>GH:boundary_alb27</Name>
-				<Title>boundary_alb27</Title>
-				<Abstract>GH:boundary_alb27 ABSTRACT</Abstract>
-				<KeywordList>
-					<Keyword>group:shp::://github.com/damonholzer/maps01/releases/download/Map_Download/boundary_alb27.zip:notListing::maxZoom:13</Keyword>
-				</KeywordList>
-				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-124.15446664941524" miny="43.43853812227265" maxx="-123.81533602912101" maxy="43.702163696014715"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="124209.46442188034" miny="296210.74078283925" maxx="149327.88014249434" maxy="323434.6774299927"></BoundingBox>
-				<Style>
-					<Name>1</Name>
-					<Title>1</Title>
-					<Abstract></Abstract>
-					<LegendURL width="20" height="20">
-						<Format>image/png</Format>
-						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=boundary_alb27"></OnlineResource>
-					</LegendURL>
-				</Style>
-			</Layer>
-			<Layer queryable="1" opaque="0">
 				<Name>GH:elliott_vbet_dgos_alb27_ver3int_just_aoi</Name>
 				<Title>elliott_vbet_dgos_alb27_ver3int_just_aoi</Title>
 				<Abstract>GH:elliott_vbet_dgos_alb27_ver3int_just_aoi ABSTRACT</Abstract>
@@ -229,6 +209,26 @@
 					<LegendURL width="20" height="20">
 						<Format>image/png</Format>
 						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=elliott_vbet_dgos_alb27_ver3int_just_aoi"></OnlineResource>
+					</LegendURL>
+				</Style>
+			</Layer>
+			<Layer queryable="1" opaque="0">
+				<Name>GH:boundary_alb27</Name>
+				<Title>boundary_alb27</Title>
+				<Abstract>GH:boundary_alb27 ABSTRACT</Abstract>
+				<KeywordList>
+					<Keyword>group:shp::://github.com/damonholzer/maps01/releases/download/Map_Download/boundary_alb27.zip:notListing::maxZoom:13</Keyword>
+				</KeywordList>
+				<SRS>EPSG:4326</SRS>
+				<LatLonBoundingBox minx="-124.15446664941524" miny="43.43853812227265" maxx="-123.81533602912101" maxy="43.702163696014715"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="124209.46442188034" miny="296210.74078283925" maxx="149327.88014249434" maxy="323434.6774299927"></BoundingBox>
+				<Style>
+					<Name>1</Name>
+					<Title>1</Title>
+					<Abstract></Abstract>
+					<LegendURL width="20" height="20">
+						<Format>image/png</Format>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=boundary_alb27"></OnlineResource>
 					</LegendURL>
 				</Style>
 			</Layer>
